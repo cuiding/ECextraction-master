@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\nlp\\ECextraction-master2\\code\\runs\\1585122347\\checkpoints\\model-24100"
+all_model_checkpoint_paths: "D:\\nlp\\ECextraction-master2\\code\\runs\\1585122347\\checkpoints\\model-23700"
+all_model_checkpoint_paths: "D:\\nlp\\ECextraction-master2\\code\\runs\\1585122347\\checkpoints\\model-23800"
+all_model_checkpoint_paths: "D:\\nlp\\ECextraction-master2\\code\\runs\\1585122347\\checkpoints\\model-23900"
+all_model_checkpoint_paths: "D:\\nlp\\ECextraction-master2\\code\\runs\\1585122347\\checkpoints\\model-24000"
+all_model_checkpoint_paths: "D:\\nlp\\ECextraction-master2\\code\\runs\\1585122347\\checkpoints\\model-24100"
